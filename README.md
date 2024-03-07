@@ -12,8 +12,8 @@ Welcome to my GitHub page! Here you'll find a collection of my projects, skills,
 ## About Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" alt="Hello World GIF">
-https://tenor.com/view/develop-web-design-software-web-designer-gif-24999202
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmF0ZzFrZDBxcWczNGNxN3NxNThhN2Q4Z2hlMmRvdm56dWZzN3UyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Hello World GIF">
+
 </p>
 
 👨‍💻 **Full Stack Developer** Passionate about reshaping the digital landscape through innovative Full Stack development. From architecting robust applications to addressing real-world challenges, I engineer seamless web experiences using ***Java, JavaScript, Spring Boot and ReactJS***. Computer Science Master's candidate at California State University Fullerton, shaping the future through collaborative coding and building transformative solutions. 💻✨ 
