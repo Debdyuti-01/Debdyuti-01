@@ -6,14 +6,12 @@
 
 Welcome to my GitHub page! Here you'll find a collection of my projects, skills, and experiences as a passionate software developer. I'm currently seeking a full-time SDE opportunity starting from May 2024. Feel free to explore and get in touch!
 
-
-
 ![](https://komarev.com/ghpvc/?username=Debdyuti-01&color=green)
 
 
 ## About Me
+<img align="right" alt="GIF" src="https://github.com/Debdyuti-01/Debdyuti-01/blob/main/Devloper.gif" width="500" height="320" />
 
-<img align="right" alt="GIF" src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="500" height="320" />
 
 👨‍💻 **Full Stack Developer** Passionate about reshaping the digital landscape through innovative Full Stack development. From architecting robust applications to addressing real-world challenges, I engineer seamless web experiences using ***Java, JavaScript, Spring Boot and ReactJS***. Computer Science Master's candidate at California State University Fullerton, shaping the future through collaborative coding and building transformative solutions. 💻✨ 
 
