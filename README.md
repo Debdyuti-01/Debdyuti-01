@@ -11,9 +11,9 @@ Welcome to my GitHub page! Here you'll find a collection of my projects, skills,
 
 ## About Me
 
-<a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">
-  <img height="50" iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr"/>
-</a>
+<p align="center">
+  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" alt="Hello World GIF">
+</p>
 
 👨‍💻 **Full Stack Developer** Passionate about reshaping the digital landscape through innovative Full Stack development. From architecting robust applications to addressing real-world challenges, I engineer seamless web experiences using ***Java, JavaScript, Spring Boot and ReactJS***. Computer Science Master's candidate at California State University Fullerton, shaping the future through collaborative coding and building transformative solutions. 💻✨ 
 
