@@ -3,15 +3,13 @@
 <h3 align="center">  Enthusiastic and solution-driven problem solver ❤️ Full-Stack Developer</h3>
 <h4 align="center" style="color: red;">🌟 Actively seeking full-time SDE opportunity starting from May 2024 🚀 </h4>
 
-
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmF0ZzFrZDBxcWczNGNxN3NxNThhN2Q4Z2hlMmRvdm56dWZzN3UyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Hello World GIF">
 
 </p>
 
 
-Welcome to my GitHub page! Here you'll find a collection of my projects, skills, and experiences as a software developer. Feel free to explore and get in touch!
-
+<br><./br>
 ## About Me
 
 👨‍💻 **Full Stack Developer** Passionate about reshaping the digital landscape through innovative Full Stack development. From architecting robust applications to addressing real-world challenges, I engineer seamless web experiences using ***Java, JavaScript, Spring Boot and ReactJS***. Computer Science Master's candidate at California State University Fullerton, shaping the future through collaborative coding and building transformative solutions. 💻✨ 
@@ -50,6 +48,6 @@ Welcome to my GitHub page! Here you'll find a collection of my projects, skills,
 </p>
 
 
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Debdyuti-01&show_icons=true&locale=en&layout=compact" alt="Debdyuti-01" /></p>-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Debdyuti-01&show_icons=true&theme=radical)
 
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Debdyuti-01&show_icons=true&locale=en" alt="Debdyuti-01" /></p>-->
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
