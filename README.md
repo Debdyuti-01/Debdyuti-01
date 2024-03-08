@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Debdyuti from Los Angeles </h1>
+<h1 align="center">Hi 👋, I'm Debdyuti Das</h1>
 
 <h3 align="center">  Enthusiastic and solution-driven problem solver ❤️ Full-Stack Developer</h3>
 <h4 align="center" style="color: red;">🌟 Actively seeking full-time SDE opportunity starting from May 2024 🚀 </h4>
