@@ -19,7 +19,7 @@
 **Programming Languages:** Java, JavaScript, Typescript, C++, Python, GraphQL, Kafka HTML, CSS, SQL, NoSQL, JSON<br/><br/>
 **Frameworks:** React, Redux, NodeJS, Next.js, Angular, RESTful APIs, MongoDB, MySQL, PostgreSQL, Tailwind CSS<br/><br/>
 **Tools:** AWS, Git, Docker, Kubernetes, Postman, Jenkins, Jira, Splunk, Selenium<br/><br/>
-**Skills:**  Full-Stack, Front-End, Back-End, Agile, Micro-Services, Unit Testing, CI-CD, Scrum, Dev-Ops<br/><br/>
+**Skills:**  Full-Stack, Front-End, Back-End, Agile, Micro-Services, Unit Testing, CI/CD, Scrum, DevOps<br/><br/>
 <br/>
 
    
