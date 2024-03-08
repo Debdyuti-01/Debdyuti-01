@@ -40,7 +40,7 @@
 
 ### My GitHub History !
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Debdyuti-01)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Debdyuti-01&layout=compact)
  ![preview](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
 
 
