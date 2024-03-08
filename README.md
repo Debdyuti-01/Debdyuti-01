@@ -14,7 +14,7 @@
 
 👨‍💻 **Full Stack Developer** Passionate about reshaping the digital landscape through innovative Full Stack development. From architecting robust applications to addressing real-world challenges, I engineer seamless web experiences using ***Java, JavaScript, Spring Boot and ReactJS***. Computer Science Master's candidate at California State University Fullerton, shaping the future through collaborative coding and building transformative solutions. 💻✨ 
 
-## My Skillset Overview 💻
+## My Skillset Overview 
 
 **Programming Languages:** Java, JavaScript, Typescript, C++, Python, GraphQL, Kafka HTML, CSS, SQL, NoSQL, JSON<br/><br/>
 **Frameworks:** React, Redux, NodeJS, Next.js, Angular, RESTful APIs, MongoDB, MySQL, PostgreSQL, Tailwind CSS<br/><br/>
