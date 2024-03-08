@@ -38,13 +38,13 @@
 
 ⚡️ Software Engineering Intern - [**Bharat Electronics Limited**](https://bel-india.in/)
 
-### My GitHub History !
+## My GitHub History 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Debdyuti-01)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Debdyuti-01&layout=compact)
  ![preview](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
 
 
-### Contact Me ! 
+## Contact Me  
 <p align="left">
 <a href="https://www.linkedin.com/in/debdyuti-das/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:Debdyutidas@csu.fullerton.edu"><img alt="Outlook" src="https://img.shields.io/badge/Outlook-0074CC?style=flat&logo=gmail&logoColor=white&color=234CAF50" /></a> &nbsp;
