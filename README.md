@@ -9,7 +9,7 @@
 </p>
 
 
-<br><./br>
+<br>
 ## About Me
 
 👨‍💻 **Full Stack Developer** Passionate about reshaping the digital landscape through innovative Full Stack development. From architecting robust applications to addressing real-world challenges, I engineer seamless web experiences using ***Java, JavaScript, Spring Boot and ReactJS***. Computer Science Master's candidate at California State University Fullerton, shaping the future through collaborative coding and building transformative solutions. 💻✨ 
