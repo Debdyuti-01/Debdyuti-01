@@ -47,7 +47,6 @@
 <a href="https://github.com/Debdyuti-01"><img alt="Github" src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=flat&logo=GitHub&logoColor=white&color=FF9933"/></a> &nbsp;
 </p>
 
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Debdyuti-01)  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Debdyuti-01&show_icons=true&theme=radical)
-
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Debdyuti-01/Debdyuti-01/blob/output/github-contribution-grid-snake.svg)
