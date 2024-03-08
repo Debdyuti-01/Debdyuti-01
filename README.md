@@ -49,12 +49,7 @@
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Debdyuti-01)  
 
-### [Snake game from github user contributions graph](https://github.com/Platane/snk) - [Platane](https://github.com/Platane/) 
+### My GitHub History !  
 ![preview](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
 
-### [GitHub Stats Visualization](https://github.com/jstrieb/github-stats) - [Debdyuti](https://github.com/Debdyuti-01)
-<a href="https://github.com/jstrieb/github-stats">
-  
-![](https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg)
-</a>  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
