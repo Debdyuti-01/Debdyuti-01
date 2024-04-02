@@ -4,7 +4,7 @@
 <h4 align="center" style="color: red;">🌟 Actively seeking full-time SDE opportunity starting from May 2024 🚀 </h4>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXU3b3Y4YWlwcDdyeXFza29zeTNsdXVwODgxZmFocWxrM2l6eHBweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1sgetPM00wWqJpVUTl/giphy.gif" alt="Hello World GIF">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmQ5N2x5cWw4bzI2Z2hwbDkwbHQ2ZDczdjZ2eXYyZHljdzJ2dHR2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/3SL41WtN5l9DNdPJGs/giphy.gif"alt="Hello World GIF">
 
 </p>
 
