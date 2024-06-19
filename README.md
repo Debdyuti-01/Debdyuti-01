@@ -1,3 +1,76 @@
+
+<h1 align="center">Hi 👋, I'm Debdyuti Das</h1>
+<h3 align="center">Aspiring Software Engineer</h3>
+
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debdyuti-das/)
+
+</div>
+
+### About me 
+- 💼 Full Stack Developer Volunteer at 'Saayam For All'
+- 💼 Senior Software Developer at Infosys 
+- 🎓 Research Assistant at Social Science Research Center 
+- 🎓 Master's in Computer Science 
+- :heart: Passionate about **Software Engineering, Data Engineering, Product Management**
+
+
+<div align="center">
+
+<br />
+
+### Languages and Frameworks :computer:
+
+[![My Skills](https://skillicons.dev/icons?i=java,Go,nodejs,JavaScript,TypeScript,React,Angular,Docker,Kubernetes,Python,AWS,Pyspark,Jenkins&theme=light)](https://skillicons.dev)
+
+<br />
+
+### Other :wrench:
+[![My Skills](https://skillicons.dev/icons?i=Git,GitLab,VSCode,Linux,Maven,Gradle&theme=light)](https://skillicons.dev)
+
+</div>
+<br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+######### testing 
+
+
 <h1 align="center">Hi 👋, I'm Debdyuti Das</h1>
 
 <h3 align="center">  Enthusiastic and solution-driven problem solver ❤️ Full-Stack Developer</h3>
